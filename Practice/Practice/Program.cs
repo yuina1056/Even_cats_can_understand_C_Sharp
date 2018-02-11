@@ -6,7 +6,7 @@ namespace Practice
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("猫でも分かるC#プログラミング：練習問題");
         }
     }
 }
