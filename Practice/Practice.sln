@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{D54F63D2-F466-4306-8C3E-BDD38CE06C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{97E22F19-E256-4E84-898B-5863EE842235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54F63D2-F466-4306-8C3E-BDD38CE06C76}.Debug|x86.ActiveCfg = Debug|x86
+		{D54F63D2-F466-4306-8C3E-BDD38CE06C76}.Debug|x86.Build.0 = Debug|x86
+		{D54F63D2-F466-4306-8C3E-BDD38CE06C76}.Release|x86.ActiveCfg = Release|x86
+		{D54F63D2-F466-4306-8C3E-BDD38CE06C76}.Release|x86.Build.0 = Release|x86
+		{97E22F19-E256-4E84-898B-5863EE842235}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{97E22F19-E256-4E84-898B-5863EE842235}.Debug|x86.Build.0 = Debug|Any CPU
+		{97E22F19-E256-4E84-898B-5863EE842235}.Release|x86.ActiveCfg = Release|Any CPU
+		{97E22F19-E256-4E84-898B-5863EE842235}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
